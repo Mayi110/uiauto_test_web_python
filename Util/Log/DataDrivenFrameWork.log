@@ -1,0 +1,9 @@
+2017-06-10 15:06:43 log.py[line:19] INFO info
+2017-06-10 15:08:26 log.py[line:19] INFO info
+2017-06-10 15:08:26 log.py[line:23] WARNING warning
+2017-06-10 15:11:16 log.py[line:19] INFO info
+2017-06-10 15:11:16 log.py[line:15] ERROR error
+2017-06-10 15:11:16 log.py[line:23] WARNING warning
+2017-06-10 15:16:48 log.py[line:19] INFO info
+2017-06-10 15:16:48 log.py[line:15] ERROR error
+2017-06-10 15:16:48 log.py[line:23] WARNING warning

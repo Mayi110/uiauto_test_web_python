@@ -1,0 +1,66 @@
+2017-06-17 15:30:40 log.py[line:18] INFO login successfully!
+2017-06-17 15:31:11 log.py[line:18] INFO login successfully!
+2017-06-17 16:07:05 log.py[line:18] INFO login successfully!
+2017-06-17 16:08:29 log.py[line:18] INFO login successfully!
+2017-06-17 16:09:36 log.py[line:18] INFO login successfully!
+2017-06-17 16:10:08 log.py[line:18] INFO login successfully!
+2017-06-17 16:33:18 log.py[line:18] INFO login successfully!
+2017-06-17 16:38:46 log.py[line:18] INFO login successfully!
+2017-06-17 17:26:50 log.py[line:18] INFO login successfully!
+2017-06-17 17:28:46 log.py[line:18] INFO login successfully!
+2017-06-17 17:35:17 log.py[line:18] INFO login successfully!
+2017-06-17 17:37:32 log.py[line:18] INFO login successfully!
+2017-06-17 17:40:08 log.py[line:18] INFO login successfully!
+2017-06-17 17:46:22 log.py[line:18] INFO login successfully!
+2017-06-17 17:48:49 log.py[line:18] INFO login successfully!
+2017-06-17 17:55:18 log.py[line:18] INFO login successfully!
+2017-06-17 17:55:36 log.py[line:18] INFO ===skip===
+2017-06-17 18:07:04 log.py[line:18] INFO login successfully!
+2017-06-17 18:07:59 log.py[line:18] INFO login successfully!
+2017-06-17 18:09:13 log.py[line:18] INFO login successfully!
+2017-06-17 18:10:26 log.py[line:18] INFO login successfully!
+2017-06-17 18:10:43 log.py[line:18] INFO skip===amy
+2017-06-17 18:10:54 log.py[line:18] INFO skip===testman1981
+2017-06-17 18:24:19 log.py[line:18] INFO liudongjie2015
+2017-06-17 18:24:19 log.py[line:18] INFO liudongjie126
+2017-06-17 18:24:33 log.py[line:18] INFO login successfully!
+2017-06-17 18:24:40 log.py[line:18] INFO lily
+2017-06-17 18:24:40 log.py[line:18] INFO lily@qq.com
+2017-06-17 18:24:44 log.py[line:18] INFO 张三
+2017-06-17 18:24:44 log.py[line:18] INFO zhangsan@qq.com
+2017-06-17 18:24:48 log.py[line:18] INFO amy
+2017-06-17 18:24:48 log.py[line:18] INFO amy@qq.com
+2017-06-17 18:24:48 log.py[line:18] INFO skip-->amy
+2017-06-17 18:24:48 log.py[line:18] INFO 李四
+2017-06-17 18:24:48 log.py[line:18] INFO lisi@qq.com
+2017-06-17 18:24:55 log.py[line:18] INFO quit browser...
+2017-06-17 18:24:59 log.py[line:18] INFO testman1981
+2017-06-17 18:24:59 log.py[line:18] INFO wulaoshi1978
+2017-06-17 18:24:59 log.py[line:18] INFO skip-->testman1981
+2017-06-17 18:32:57 log.py[line:18] INFO sheetname: 126账号
+2017-06-17 18:32:57 log.py[line:18] INFO username: liudongjie2015
+2017-06-17 18:33:11 log.py[line:18] INFO login successfully!
+2017-06-17 18:33:21 log.py[line:18] INFO lily
+2017-06-17 18:33:21 log.py[line:18] INFO lily@qq.com
+2017-06-17 18:33:25 log.py[line:18] INFO 张三
+2017-06-17 18:33:25 log.py[line:18] INFO zhangsan@qq.com
+2017-06-17 18:33:29 log.py[line:18] INFO amy
+2017-06-17 18:33:29 log.py[line:18] INFO amy@qq.com
+2017-06-17 18:33:29 log.py[line:18] INFO skip-->amy
+2017-06-17 18:33:29 log.py[line:18] INFO 李四
+2017-06-17 18:33:29 log.py[line:18] INFO lisi@qq.com
+2017-06-17 18:33:36 log.py[line:18] INFO quit browser...
+2017-06-17 18:33:39 log.py[line:18] INFO username: testman1981
+2017-06-17 18:33:39 log.py[line:18] INFO skip-->testman1981
+2017-06-17 18:39:23 log.py[line:18] INFO sheetname: 126账号
+2017-06-17 18:39:23 log.py[line:18] INFO username: liudongjie2015
+2017-06-17 18:39:36 log.py[line:18] INFO login successfully!
+2017-06-17 18:39:45 log.py[line:18] INFO sheetname: 联系人
+2017-06-17 18:39:45 log.py[line:18] INFO test_user: lily
+2017-06-17 18:39:49 log.py[line:18] INFO test_user: 张三
+2017-06-17 18:39:52 log.py[line:18] INFO test_user: amy
+2017-06-17 18:39:52 log.py[line:18] INFO test skip-->amy
+2017-06-17 18:39:52 log.py[line:18] INFO test_user: 李四
+2017-06-17 18:39:59 log.py[line:18] INFO quit browser...
+2017-06-17 18:40:03 log.py[line:18] INFO username: testman1981
+2017-06-17 18:40:03 log.py[line:18] INFO skip-->testman1981
